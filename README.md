@@ -1,2 +1,2 @@
 # Fish-vs-Sharks
-A parody of Plants vs. Zombies using Visual Studios C#. This is based on OOP and manipulates the usage of 2D arrays and lists.
+A parody of Plants vs. Zombies using Visual Studios C#. This was a group project where we learned to leverage UML diagrams, OOP principles, software design principles, and manipulating matrices.
